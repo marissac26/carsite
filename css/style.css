@@ -1,14 +1,15 @@
 .important {
   padding-left: 40px;
   padding-right: 40px;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
   font-family: sans-serif;
 
 }
 h1 {
   text-align: left;
+  font-family:sans-serif;
 }
 div img {
     height: 160px;
@@ -19,4 +20,28 @@ div img {
 .row{
   padding-left: 20px;
   padding-right: 20px;
+}
+
+body {
+ffont-family: 'Oswald', sans-serif;
+font-size: 15px;
+}
+
+.circle {
+  padding-top: 10px;
+  width: 400px;
+  height: 350px;
+}
+
+
+}
+p.start {
+    font-size: 15px;
+    line-height: 25px;
+    text-align: justify;
+    display: inline
+    padding-botton: 15px;
+}
+col-md-4 {
+  line-height: 25px;
 }
