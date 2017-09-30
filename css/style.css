@@ -1,0 +1,10 @@
+.important {
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+h1 {
+  color:#000ff;
+  text-align: left;
+}
